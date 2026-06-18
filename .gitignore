@@ -1,0 +1,23 @@
+# Credenciales - NUNCA subir esto a GitHub
+credentials/
+*.json
+
+# Entornos virtuales / conda
+venv/
+env/
+.conda/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# VSCode (descomenta si no quieres compartir tu config local)
+# .vscode/
