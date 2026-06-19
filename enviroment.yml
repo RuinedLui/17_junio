@@ -12,3 +12,5 @@ dependencies:
       - db-dtypes
       - jupyter
       - faker
+      - matplotlib
+      - seaborn
